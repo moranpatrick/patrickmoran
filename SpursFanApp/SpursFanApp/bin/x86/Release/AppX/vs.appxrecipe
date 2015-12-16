@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SAMSUNG</Machine>
+    <WindowsUser>User</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>8828b7d3-2652-48b0-b82a-acf5adfd6ead</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\User\Documents\Visual Studio 2015\Projects\SpursFanApp\SpursFanApp\obj\x86\Release\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>AB90792694C1FB430AEF85A7C07FB036307C3C6CC9E481B15B45B1B539737A9F</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>48244Patrick.Moran.SpursFanApp_1.1.0.0_x86__4sdaedqydyjdm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>48244Patrick.Moran.SpursFanApp_4sdaedqydyjdm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>48244Patrick.Moran.SpursFanApp</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=User</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\User\Documents\Visual Studio 2015\Projects\SpursFanApp\SpursFanApp\bin\x86\Release\ilc\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-12-15T19:58:32.212</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\User\Documents\Visual Studio 2015\Projects\SpursFanApp\SpursFanApp\bin\x86\Release\ilc\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2015-08-27T00:38:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Documents\Visual Studio 2015\Projects\SpursFanApp\SpursFanApp\bin\x86\Release\ilc\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-12-15T19:16:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Documents\Visual Studio 2015\Projects\SpursFanApp\SpursFanApp\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-12-11T18:08:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Documents\Visual Studio 2015\Projects\SpursFanApp\SpursFanApp\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-12-11T18:01:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Documents\Visual Studio 2015\Projects\SpursFanApp\SpursFanApp\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-12-15T19:32:51.986</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Documents\Visual Studio 2015\Projects\SpursFanApp\SpursFanApp\bin\x86\Release\ilc\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-12-11T17:42:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Documents\Visual Studio 2015\Projects\SpursFanApp\SpursFanApp\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-12-11T18:04:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Documents\Visual Studio 2015\Projects\SpursFanApp\SpursFanApp\bin\x86\Release\ilc\ClrCompression.dll">
+      <PackagePath>ClrCompression.dll</PackagePath>
+      <Modified>2015-10-05T13:15:18.286</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Documents\Visual Studio 2015\Projects\SpursFanApp\SpursFanApp\bin\x86\Release\ilc\Images\3rdkit.jpg">
+      <PackagePath>Images\3rdkit.jpg</PackagePath>
+      <Modified>2015-12-15T18:24:43.798</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Documents\Visual Studio 2015\Projects\SpursFanApp\SpursFanApp\bin\x86\Release\ilc\Images\alli.jpg">
+      <PackagePath>Images\alli.jpg</PackagePath>
+      <Modified>2015-12-15T18:24:43.802</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Documents\Visual Studio 2015\Projects\SpursFanApp\SpursFanApp\bin\x86\Release\ilc\Images\appBackground.jpg">
+      <PackagePath>Images\appBackground.jpg</PackagePath>
+      <Modified>2015-12-15T18:24:43.805</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Documents\Visual Studio 2015\Projects\SpursFanApp\SpursFanApp\bin\x86\Release\ilc\Images\awayKit.jpg">
+      <PackagePath>Images\awayKit.jpg</PackagePath>
+      <Modified>2015-12-15T18:24:43.821</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Documents\Visual Studio 2015\Projects\SpursFanApp\SpursFanApp\bin\x86\Release\ilc\Images\dier.jpg">
+      <PackagePath>Images\dier.jpg</PackagePath>
+      <Modified>2015-12-15T18:24:43.825</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Documents\Visual Studio 2015\Projects\SpursFanApp\SpursFanApp\bin\x86\Release\ilc\Images\eriksen.jpg">
+      <PackagePath>Images\eriksen.jpg</PackagePath>
+      <Modified>2015-12-15T18:24:43.830</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Documents\Visual Studio 2015\Projects\SpursFanApp\SpursFanApp\bin\x86\Release\ilc\Images\gmit.jpg">
+      <PackagePath>Images\gmit.jpg</PackagePath>
+      <Modified>2015-12-15T18:24:43.834</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Documents\Visual Studio 2015\Projects\SpursFanApp\SpursFanApp\bin\x86\Release\ilc\Images\homeJersey.jpg">
+      <PackagePath>Images\homeJersey.jpg</PackagePath>
+      <Modified>2015-12-15T18:24:43.838</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Documents\Visual Studio 2015\Projects\SpursFanApp\SpursFanApp\bin\x86\Release\ilc\Images\kane.jpg">
+      <PackagePath>Images\kane.jpg</PackagePath>
+      <Modified>2015-12-15T18:24:43.843</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Documents\Visual Studio 2015\Projects\SpursFanApp\SpursFanApp\bin\x86\Release\ilc\Images\logo.jpg">
+      <PackagePath>Images\logo.jpg</PackagePath>
+      <Modified>2015-12-15T18:24:43.847</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Documents\Visual Studio 2015\Projects\SpursFanApp\SpursFanApp\bin\x86\Release\ilc\Images\logo2.png">
+      <PackagePath>Images\logo2.png</PackagePath>
+      <Modified>2015-12-15T18:24:43.853</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Documents\Visual Studio 2015\Projects\SpursFanApp\SpursFanApp\bin\x86\Release\ilc\Images\manager.jpg">
+      <PackagePath>Images\manager.jpg</PackagePath>
+      <Modified>2015-12-15T18:24:43.858</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Documents\Visual Studio 2015\Projects\SpursFanApp\SpursFanApp\bin\x86\Release\ilc\Images\me.jpg">
+      <PackagePath>Images\me.jpg</PackagePath>
+      <Modified>2015-12-15T18:24:43.767</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Documents\Visual Studio 2015\Projects\SpursFanApp\SpursFanApp\bin\x86\Release\ilc\Images\son.jpg">
+      <PackagePath>Images\son.jpg</PackagePath>
+      <Modified>2015-12-15T18:24:43.772</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Documents\Visual Studio 2015\Projects\SpursFanApp\SpursFanApp\bin\x86\Release\ilc\Images\stadium.jpg">
+      <PackagePath>Images\stadium.jpg</PackagePath>
+      <Modified>2015-12-15T18:24:43.777</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Documents\Visual Studio 2015\Projects\SpursFanApp\SpursFanApp\bin\x86\Release\ilc\Images\toby.jpg">
+      <PackagePath>Images\toby.jpg</PackagePath>
+      <Modified>2015-12-15T18:24:43.781</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Documents\Visual Studio 2015\Projects\SpursFanApp\SpursFanApp\bin\x86\Release\ilc\Images\walker.jpg">
+      <PackagePath>Images\walker.jpg</PackagePath>
+      <Modified>2015-12-15T18:24:43.786</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Documents\Visual Studio 2015\Projects\SpursFanApp\SpursFanApp\bin\x86\Release\ilc\Images\welcome.jpg">
+      <PackagePath>Images\welcome.jpg</PackagePath>
+      <Modified>2015-12-15T18:24:43.790</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Documents\Visual Studio 2015\Projects\SpursFanApp\SpursFanApp\bin\x86\Release\ilc\Images\whitehartlane.jpg">
+      <PackagePath>Images\whitehartlane.jpg</PackagePath>
+      <Modified>2015-12-15T18:24:43.795</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Documents\Visual Studio 2015\Projects\SpursFanApp\SpursFanApp\bin\x86\Release\ilc\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-12-15T19:56:31.510</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Documents\Visual Studio 2015\Projects\SpursFanApp\SpursFanApp\bin\x86\Release\ilc\SpursFanApp.dll">
+      <PackagePath>SpursFanApp.dll</PackagePath>
+      <Modified>2015-12-15T19:58:31.269</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Documents\Visual Studio 2015\Projects\SpursFanApp\SpursFanApp\bin\x86\Release\ilc\SpursFanApp.exe">
+      <PackagePath>SpursFanApp.exe</PackagePath>
+      <Modified>2015-12-15T19:58:32.172</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.1\1.1\">
+      <Name>Microsoft.NET.Native.Runtime.1.1</Name>
+      <Version>1.1.23231.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.1, MinVersion = 1.1.23231.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.1\1.1\.\AppX\ARM\Microsoft.NET.Native.Runtime.1.1.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.1\1.1\">
+      <Name>Microsoft.NET.Native.Runtime.1.1</Name>
+      <Version>1.1.23231.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.1, MinVersion = 1.1.23231.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.1\1.1\.\AppX\x64\Microsoft.NET.Native.Runtime.1.1.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.1\1.1\">
+      <Name>Microsoft.NET.Native.Runtime.1.1</Name>
+      <Version>1.1.23231.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.1, MinVersion = 1.1.23231.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.1\1.1\.\AppX\x86\Microsoft.NET.Native.Runtime.1.1.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.22929.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.22929.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.22929.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.22929.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.22929.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.22929.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

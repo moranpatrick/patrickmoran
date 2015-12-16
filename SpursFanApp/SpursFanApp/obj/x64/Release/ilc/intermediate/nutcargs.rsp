@@ -1,0 +1,9 @@
+/ignoreAccessChecks
+/metadataFile "C:\Users\User\Documents\Visual Studio 2015\Projects\SpursFanApp\SpursFanApp\obj\x64\Release\ilc\intermediate\ILTransformed\SpursFanApp.metadata"
+/gvmAssemblyName "System.Private.CoreLib"
+/o
+/sharedGenerics
+/ilmergeinfo "C:\Users\User\Documents\Visual Studio 2015\Projects\SpursFanApp\SpursFanApp\obj\x64\Release\ilc\intermediate\ILTransformed\SpursFanApp.csv"
+/sharedGenericsMode StandardHeuristics
+/in "C:\Users\User\Documents\Visual Studio 2015\Projects\SpursFanApp\SpursFanApp\obj\x64\Release\ilc\intermediate\ILTransformed\SpursFanApp.ilexe"
+/out "C:\Users\User\Documents\Visual Studio 2015\Projects\SpursFanApp\SpursFanApp\obj\x64\Release\ilc\intermediate\MDIL\SpursFanApp.mdilexe"

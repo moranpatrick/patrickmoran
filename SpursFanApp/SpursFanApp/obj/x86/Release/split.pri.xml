@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="48244Patrick.Moran.SpursFanApp" version="1.0" primary="true">
+		<Qualifiers>
+			<AlternateForm>UNPLATED</AlternateForm>
+			<Scale>200</Scale>
+			<TargetSize>24</TargetSize>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://48244Patrick.Moran.SpursFanApp/Files/App.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://48244Patrick.Moran.SpursFanApp/Files/MainPage.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SpursFanApp.xr.xml" uri="ms-resource://48244Patrick.Moran.SpursFanApp/Files/SpursFanApp.xr.xml">
+				<Candidate type="Path">
+					<Value>SpursFanApp.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="LockScreenLogo.png" uri="ms-resource://48244Patrick.Moran.SpursFanApp/Files/Assets/LockScreenLogo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\LockScreenLogo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://48244Patrick.Moran.SpursFanApp/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.png" uri="ms-resource://48244Patrick.Moran.SpursFanApp/Files/Assets/Square150x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square150x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square44x44Logo.png" uri="ms-resource://48244Patrick.Moran.SpursFanApp/Files/Assets/Square44x44Logo.png">
+					<Candidate qualifiers="TargetSize-24, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://48244Patrick.Moran.SpursFanApp/Files/Assets/StoreLogo.png"/>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://48244Patrick.Moran.SpursFanApp/Files/Assets/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Wide310x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Images">
+				<NamedResource name="3rdkit.jpg" uri="ms-resource://48244Patrick.Moran.SpursFanApp/Files/Images/3rdkit.jpg">
+					<Candidate type="Path">
+						<Value>Images\3rdkit.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="alli.jpg" uri="ms-resource://48244Patrick.Moran.SpursFanApp/Files/Images/alli.jpg">
+					<Candidate type="Path">
+						<Value>Images\alli.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="appBackground.jpg" uri="ms-resource://48244Patrick.Moran.SpursFanApp/Files/Images/appBackground.jpg">
+					<Candidate type="Path">
+						<Value>Images\appBackground.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="awayKit.jpg" uri="ms-resource://48244Patrick.Moran.SpursFanApp/Files/Images/awayKit.jpg">
+					<Candidate type="Path">
+						<Value>Images\awayKit.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="dier.jpg" uri="ms-resource://48244Patrick.Moran.SpursFanApp/Files/Images/dier.jpg">
+					<Candidate type="Path">
+						<Value>Images\dier.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="eriksen.jpg" uri="ms-resource://48244Patrick.Moran.SpursFanApp/Files/Images/eriksen.jpg">
+					<Candidate type="Path">
+						<Value>Images\eriksen.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="gmit.jpg" uri="ms-resource://48244Patrick.Moran.SpursFanApp/Files/Images/gmit.jpg">
+					<Candidate type="Path">
+						<Value>Images\gmit.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="homeJersey.jpg" uri="ms-resource://48244Patrick.Moran.SpursFanApp/Files/Images/homeJersey.jpg">
+					<Candidate type="Path">
+						<Value>Images\homeJersey.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="kane.jpg" uri="ms-resource://48244Patrick.Moran.SpursFanApp/Files/Images/kane.jpg">
+					<Candidate type="Path">
+						<Value>Images\kane.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="logo.jpg" uri="ms-resource://48244Patrick.Moran.SpursFanApp/Files/Images/logo.jpg">
+					<Candidate type="Path">
+						<Value>Images\logo.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="logo2.png" uri="ms-resource://48244Patrick.Moran.SpursFanApp/Files/Images/logo2.png">
+					<Candidate type="Path">
+						<Value>Images\logo2.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="manager.jpg" uri="ms-resource://48244Patrick.Moran.SpursFanApp/Files/Images/manager.jpg">
+					<Candidate type="Path">
+						<Value>Images\manager.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="me.jpg" uri="ms-resource://48244Patrick.Moran.SpursFanApp/Files/Images/me.jpg">
+					<Candidate type="Path">
+						<Value>Images\me.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="son.jpg" uri="ms-resource://48244Patrick.Moran.SpursFanApp/Files/Images/son.jpg">
+					<Candidate type="Path">
+						<Value>Images\son.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="stadium.jpg" uri="ms-resource://48244Patrick.Moran.SpursFanApp/Files/Images/stadium.jpg">
+					<Candidate type="Path">
+						<Value>Images\stadium.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="toby.jpg" uri="ms-resource://48244Patrick.Moran.SpursFanApp/Files/Images/toby.jpg">
+					<Candidate type="Path">
+						<Value>Images\toby.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="walker.jpg" uri="ms-resource://48244Patrick.Moran.SpursFanApp/Files/Images/walker.jpg">
+					<Candidate type="Path">
+						<Value>Images\walker.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="welcome.jpg" uri="ms-resource://48244Patrick.Moran.SpursFanApp/Files/Images/welcome.jpg">
+					<Candidate type="Path">
+						<Value>Images\welcome.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="whitehartlane.jpg" uri="ms-resource://48244Patrick.Moran.SpursFanApp/Files/Images/whitehartlane.jpg">
+					<Candidate type="Path">
+						<Value>Images\whitehartlane.jpg</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Properties">
+				<NamedResource name="Default.rd.xml" uri="ms-resource://48244Patrick.Moran.SpursFanApp/Files/Properties/Default.rd.xml">
+					<Candidate type="Path">
+						<Value>Properties\Default.rd.xml</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="WinMetadata">
+				<NamedResource name="Windows.winmd" uri="ms-resource://48244Patrick.Moran.SpursFanApp/Files/WinMetadata/Windows.winmd">
+					<Candidate type="Path">
+						<Value>WinMetadata\Windows.winmd</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>
